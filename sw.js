@@ -10,13 +10,10 @@
 const APP_VERSION = "v2.3";
 const SONG_CACHE = "v1.0";
 
-const SONG_CACHE = `alatipha-music-beta-${APP_VERSION}`;
-const SONG_CACHE = `alatipha-songs-beta-${SONG_CACHE}`;
+const SONG_CACHE = `alatiphy-music-pwa-${APP_VERSION}`;
+const SONG_CACHE = `alatiphy-songs-pwa-${SONG_CACHE}`;
 
-/*
-const CACHE_NAME = "alatipha-music-beta-v9";
-const SONG_CACHE = "alatipha-songs-beta-v1";
-*/
+
 
 /* ====================
    APP SHELL
