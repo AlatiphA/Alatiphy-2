@@ -672,7 +672,7 @@ box-shadow:
 
   /* MOBILE */
   @media (max-width: 680px) {
-    .app { padding-bottom: 190px; }
+    .app { padding-bottom: 310px; }
     .app.mini-player { padding-bottom: 90px; }
     #search { font-size: 14.5px; }
     .song img { width: 32px; height: 32px; }
