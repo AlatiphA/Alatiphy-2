@@ -421,8 +421,8 @@
 }
 
   #cover{
-    width:60px;
-    height:60px;
+    width:55px;
+    height:55px;
     border-radius:50%;
     object-fit:cover;
     flex-shrink:0;
@@ -671,7 +671,7 @@ box-shadow:
 
   /* MOBILE */
   @media (max-width: 680px) {
-    .app { padding-bottom: 260px; }
+    .app { padding-bottom: 250px; }
     .app.mini-player { padding-bottom: 90px; }
     #search { font-size: 14.5px; }
     .song img { width: 32px; height: 32px; }
